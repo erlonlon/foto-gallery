@@ -1,0 +1,20 @@
+
+
+h1{
+  color: rgb(6, 163, 163);
+  text-align: center;
+  margin: 10px;
+  size: 50px;
+}
+div{
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  
+}
+.paragrafo1{
+
+  text-decoration: none;
+  color: blueviolet;
+  text-align: center;
+}
